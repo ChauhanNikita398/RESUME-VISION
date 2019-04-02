@@ -1,0 +1,43 @@
+ body
+  {
+    background-color:SkyBlue;
+  }
+  h3 {
+  background-color:FloralWhite;
+  text-decoration: underline;
+    }
+
+  td{ border-bottom: 1px solid #ddd;
+}
+   tr:nth-child(even) {background-color:LightCyan  ;}
+    
+  p 
+  {
+  text-align: center-left
+  text-color:black;
+  }  
+  
+   #table1{
+     padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+	}
+	.center {
+  align:center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 100px;
+   }
+	img{
+	margin-left:200px;
+	}
+
+	
+	h1{
+	color: Teal ;
+	text-shadow: 2px 1px sky-blue;}
+   
+   
+  
